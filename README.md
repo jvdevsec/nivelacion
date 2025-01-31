@@ -4,7 +4,7 @@
 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](/html-css/)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](/html-css/)
-[![es](https://img.shields.io/badge/PseudoCodigo-yellow)](./pseudo-code/)
+[![es](https://img.shields.io/badge/PseudoCodigo-yellow)](/pseudo-code/)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](/databases/postgresql/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](/databases/mongodb)
 
