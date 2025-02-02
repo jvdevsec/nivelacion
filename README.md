@@ -55,7 +55,7 @@ debe:
 
 Crea un mini proyecto de gestión de inventario utilizando MongoDB y PostgreSQL:
 
-### ProstgreSQL
+### PostgreSQL
 
 - Diseña una tabla llamada productos con los campos: id_producto,
   nombre, categoria, precio.
