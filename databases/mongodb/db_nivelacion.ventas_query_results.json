@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "679ff36b274c1c8f2ecb0ce5"
+  },
+  "id_venta": 1,
+  "fecha": {
+    "$date": "2024-02-02T00:00:00.000Z"
+  },
+  "id_producto": "ABC123",
+  "cantidad": 3
+},
+{
+  "_id": {
+    "$oid": "679ff377274c1c8f2ecb0ce6"
+  },
+  "id_venta": 2,
+  "fecha": {
+    "$date": "2024-02-02T00:00:00.000Z"
+  },
+  "id_producto": "DEF456",
+  "cantidad": 5
+},
+{
+  "_id": {
+    "$oid": "679ff391274c1c8f2ecb0ce7"
+  },
+  "id_venta": 3,
+  "fecha": {
+    "$date": "2024-02-03T00:00:00.000Z"
+  },
+  "id_producto": "ABC123",
+  "cantidad": 1
+}]
